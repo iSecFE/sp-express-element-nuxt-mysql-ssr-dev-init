@@ -1,9 +1,9 @@
 {
   "name": "sp-ssr-init",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ssr by nuxt,mysql,express,element",
   "author": "iSecFE",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
     "build": "nuxt build",

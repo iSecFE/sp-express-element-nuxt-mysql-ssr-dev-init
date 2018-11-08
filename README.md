@@ -1,14 +1,20 @@
-# sp-express-element-nuxt-mysql-ssr-dev-init
+# sp-ssr-init
+
+Sp-SSR-init by Express, Nuxt, MySQL, ElementUI.
 
 ## Usage
 
 ### Dev
 
-``` npm run dev
+``` node
+  npm run dev
 ```
 
 ### Build
 
-``` npm run build
+``` node
+    npm run build
     npm run start
 ```
+
+<span style="color:#f60">Tips:ElementUI table component not suport SSR.</div>
